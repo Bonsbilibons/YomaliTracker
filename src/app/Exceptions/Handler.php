@@ -52,7 +52,6 @@ class Handler extends ExceptionHandler
 
     public function render($request, Throwable $exception)
     {
-        dd($exception);
         $message = 'Something went wrong.';
         $code = Response::HTTP_INTERNAL_SERVER_ERROR;
 
