@@ -1,12 +1,3 @@
-```
-/YomaliTracker/
-├── src/   #project repository folder
-├── nginx/
-├── php/
-├── docker-compose.yml
-├── nginx.dockerfile
-├── php.dockerfile
-```
 # Setup Instructions
 
 --------------------------------------------------------------------
